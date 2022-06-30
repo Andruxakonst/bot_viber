@@ -9,7 +9,7 @@
     "servicesURL":"https://kvs.uptaxi.ru/apim/v1/ru/services/get/available",
     "servicesGetInterval":300000,
     "getTokenURL":"/api/client_mobile/v1/ru/account/auth_via_bot",
-    "getTokenSign":"bbXUvW3Y83nYVibUE8LsxE6QKh5f",
+    "getTokenSign":"",
     "logInFile":true,
     "logInconsole":false,
     "puthToLog":"",
