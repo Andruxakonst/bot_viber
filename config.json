@@ -1,0 +1,17 @@
+{
+    "hostname":"127.0.0.1",
+    "port":3012,
+    "botToken":"4e9a1f8c2767dd90-bba65b10b57a0a5d-7df969a510291412",
+    "botUrlApi":"chatapi.viber.com",
+    "redirectURL":"https://kvs.uptaxi.ru/clientBotAuth/redirectApp.html",
+    "inputUrl":"https://ust.uptaxi.ru/bot/viber/",
+    "inputPort":"",
+    "servicesURL":"https://kvs.uptaxi.ru/apim/v1/ru/services/get/available",
+    "servicesGetInterval":300000,
+    "getTokenURL":"/api/client_mobile/v1/ru/account/auth_via_bot",
+    "getTokenSign":"bbXUvW3Y83nYVibUE8LsxE6QKh5f",
+    "logInFile":true,
+    "logInconsole":false,
+    "puthToLog":"",
+    "logFileName":"log.txt"
+}

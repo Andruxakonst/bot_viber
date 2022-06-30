@@ -1,0 +1,14 @@
+{
+  "name": "ViberBot",
+  "version": "1.0.0",
+  "description": "Бот для регистрации через viber",
+  "main": "bot_viber.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Konstantinov Andrey Vitalievich",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
