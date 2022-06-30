@@ -1,7 +1,7 @@
 {
     "hostname":"127.0.0.1",
     "port":3012,
-    "botToken":"4e9a1f8c2767dd90-bba65b10b57a0a5d-7df969a510291412",
+    "botToken":"",
     "botUrlApi":"chatapi.viber.com",
     "redirectURL":"https://kvs.uptaxi.ru/clientBotAuth/redirectApp.html",
     "inputUrl":"https://ust.uptaxi.ru/bot/viber/",
